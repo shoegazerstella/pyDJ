@@ -1,6 +1,7 @@
 # pyDJ
 
 pyDJ is an automatic DJ mixes generation.
+
 It extract features from the audio and computes Nearest Neighbors for generating the playlist.
 
 ### Usage
